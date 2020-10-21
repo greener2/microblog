@@ -1,3 +1,4 @@
+app.db
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,pycharm+all,flask
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,pycharm+all,flask
@@ -6,6 +7,7 @@
 instance/*
 !instance/.gitignore
 .webassets-cache
+.flaskenv
 
 ### Flask.Python Stack ###
 # Byte-compiled / optimized / DLL files
